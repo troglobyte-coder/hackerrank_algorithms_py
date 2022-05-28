@@ -1,3 +1,4 @@
+#!/bin/python3
 #
 # HackerRank folio
 # solved by Michael Gene Brockus
