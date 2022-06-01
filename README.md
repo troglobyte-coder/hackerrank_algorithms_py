@@ -1,4 +1,4 @@
-# hackerrank_algorithems_py
+# hackerrank_algorithms_py
 
 ## overview
 
